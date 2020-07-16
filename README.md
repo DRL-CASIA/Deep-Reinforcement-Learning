@@ -1,5 +1,7 @@
 # Deep-Reinforcement-Learning
-  Publications of DRL-CASIA Lab
+  Publications of DRL-CASIA Lab.
+  Publications of our lab in terms of Game AI, Auto ML, Autonomous-Driving and SmartRobots can be found in the sub-files of this project.
+  
 # Selected Journal Publications since 2011
 ## DRL
 [1]	Haoran Li, Qichao Zhang, Dongbin Zhao*, **" Deep reinforcement learning based automatic exploration for navigation in unknown environment,"** IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 6, pp. 2064–2076, 2020. DOI: 10.1109/TNNLS.2019.292786. (SCI Q1, IF 11.68/2019).
