@@ -1,4 +1,4 @@
-# RL/ADP
+# Deep-Reinforcement-Learning
   Publications of DRL-CASIA Lab
 # Selected Journal Publications since 2011
 ## DRL
