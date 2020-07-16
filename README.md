@@ -1,7 +1,7 @@
 # Deep-Reinforcement-Learning
   Publications of DRL-CASIA Lab.
   
-  Publications of our lab in terms of Game AI, Auto ML, Autonomous-Driving and SmartRobots can be found in the sub-files of this project.
+  Publications of our lab in terms of **Game AI**, **Auto ML**, **Autonomous-Driving** and **Smart-Robots** can be found in the sub-files of this project.
   
 # Selected Journal Publications since 2011
 ## DRL
