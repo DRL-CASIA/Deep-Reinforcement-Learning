@@ -121,7 +121,7 @@
 
 [55]	Yongduan Song, Frank L. Lewis, Marios Polycarpou, Danil Prokhorov, Dongbin Zhao, **Editorial: new developments in neural network structures for signal processing, autonomous decision, and adaptive control**, IEEE Transactions on Neural Networks and Learning Systems, Vol. 28, No. 3, pp. 494 – 499, 2017.
 
-[56]	王成红, 孙长银，苏剑波，周彤，赵冬斌，胡跃明。“**机器智能、系统优化与最优决策”专刊，控制理论与应用**，vol. 33, no. 12, pp.1553-1554, 2016.
+[56]	王成红, 孙长银，苏剑波，周彤，赵冬斌，胡跃明。“**机器智能、系统优化与最优决策”专刊**，控制理论与应用，vol. 33, no. 12, pp.1553-1554, 2016.
 
 [57]	Amir Hussain, Dacheng Tao, Jonathan Wu, Dongbin Zhao, “**Editorial: computational intelligence for changing environments**,” IEEE Computational Intelligence Magazine, Vol. 11, No. 10(4): 10-11, 2015. DOI: 10.1109/MCI.2015.24721192015. 
 
