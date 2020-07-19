@@ -10,6 +10,9 @@ Z. Ding, Y. Chen, N. Li, and D. Zhao, “Simplified space based neural architect
 Z. Ding, Y. Chen, N. Li, Z. Sun, D. Zhao and C.L.P Chen, “BNAS: An efficient neural architecture search approach using broad scalable architecture,” arXiv preprint arXiv:2001.06679, 2020.  
 [paper](https://arxiv.org/abs/2001.06679)
 
+Li N, Chen Y, Ding Z, et al. Multi-Objective Neural Architecture Search for Light-Weight Model[C]//2019 Chinese Automation Congress (CAC). IEEE, 2019: 3794-3799.
+[paper](https://ieeexplore.ieee.org/document/8996488)
+
 ## 分割
 Yi Lu, Yaran Chen, Dongbin Zhao, Bao Liu, Zhichao Lai, Jianxin Chen.“CNN-G: convolutional neural network combined with graph for image segmentation with theoretical analysis,” IEEE Transactions on Cognitive and Developmental Systems, 2020, 10.1109/TCDS.2020.2998497. 
 [paper](https://ieeexplore.ieee.org/document/9103557)
