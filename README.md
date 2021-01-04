@@ -8,7 +8,7 @@
 [1]  Yi Lu, Yaran Chen, Dongbin Zhao*, Dong Li, **“Graph neural network-based inference in a Markov network for visual navigation,”** Neurocomputing, vol. 421, pp. 140-150, 2021. DOI: 10.1016/j.neucom.2020.07.091 (SCI Q2, IF 4.438). 
 > 代码开源：https://github.com/pamela0530/mgrl 
 
-[2]Yuanheng Zhu, Dongbin Zhao*, Le Lv, “Vision-based control in the open racing car simulator with deep and reinforcement learning,” Journal of Ambient Intelligence and Humanized Computing, DOI: 10.1007/s12652-019-01503-y. (SCI Q3, IF 4.594).
+[2]Yuanheng Zhu, Dongbin Zhao*, Le Lv, **“Vision-based control in the open racing car simulator with deep and reinforcement learning,”** Journal of Ambient Intelligence and Humanized Computing, DOI: 10.1007/s12652-019-01503-y. (SCI Q3, IF 4.594).
 
 [3]	Haoran Li, Qichao Zhang, Dongbin Zhao*, **" Deep reinforcement learning based automatic exploration for navigation in unknown environment,"** IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 6, pp. 2064–2076, 2020. DOI: 10.1109/TNNLS.2019.292786. (SCI Q1, IF 11.68/2019).
 
